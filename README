@@ -1,0 +1,48 @@
+!! Use Case
+* wget scripts from https://dropbox.com/.../xxx
+* chmod
+* change config if needed
+* run it
+* read setup report
+* further manual actions according to the report
+
+!! Various Requirements
+* For Package Management
+** update repository list
+** update repository cache
+
+* For OS Misc
+** set proxy
+
+* For Bash
+** .bashrc
+** .profile
+
+* For VIM
+** install vim
+** .vimrc
+** plugins
+*** ctag
+*** taglist
+
+* For Development
+** install gcc
+** install Make
+** For git
+*** install git
+*** add ssh key to github and gitorious
+*** git clone pre-defined repositories
+
+* For VNC
+** install vncserver
+** start a vncserver
+** .vnc
+
+* For ssh
+** install sshd
+** start sshd service
+** generate key in .ssh/
+
+* For nokia firewall
+** install required programs
+** config
