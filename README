@@ -1,5 +1,5 @@
 !! Use Case
-* wget scripts from https://dropbox.com/.../xxx
+* wget scripts from github
 * chmod
 * change config if needed
 * run it
